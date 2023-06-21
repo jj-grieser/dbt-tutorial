@@ -1,0 +1,13 @@
+jaffle_shop: # this needs to match the profile in your dbt_project.yml file
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: /Users/jgrieser/dbt-env/jaffle_shop/dbt_user_creds.json # replace this with the full path to your keyfile
+      project: celtic-pulsar-390513 # Replace this with your project id
+      dataset: dbt_jgrieser # Replace this with dbt_your_name, e.g. dbt_bilbo
+      threads: 1
+      timeout_seconds: 300
+      location: US
+      priority: interactive

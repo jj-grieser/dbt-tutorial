@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "celtic-pulsar-390513",
+  "private_key_id": "76e3e19848290a0f6ff241760af4a327e11c14dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDa2vE76HfqOxTl\nkxnEQdb8cEPE8SVaRwnEdUCUyh8IlPFzccQkHNCr1NVrYCew/rkwmSxZBUB6hUjj\nWzTjepWZ75F6k1SiUMT8QInEUTV3hzLUq4az7ZwL4u2KHuheGGJcoLEvUhTwl/9X\ndQ4aBrqorQPcjil2DFBS+r28N+DTAded0nL3ppMgBdAKYXiyq5twFlymU3YL+c3L\nA4dNpjcRwAvdjertJ15/dkOx4MosZ4sTNm1pCsn8vn7NXKPKkLGC4LFplOTgirhZ\nzwQ6L7dfQfVvX6snChAv6F5CjUPrak/z3enUfY+eveSvQ8+W+qGSP3JiyZ0m8ZBp\n3ner+F5tAgMBAAECggEABl5yWfJdJJpGwWeTS5YFUgaL8lWrzWf3BzPIuiVa23Hg\nlO6t0182gDALBe6GbGAwg3mLRAvv4Tp/vh4PxY7yGGJTmX2WhbxT/zZ7MkgquVyP\nd7qGJDZSx2wsyktoxIdxIidXzXvvoBDMULJw9p27hBOE4tlzdQjNGmnkztVrDx9K\nay/1EECD4BS+LM9ExMHpzU08Wu4WFuhH7ZWXCNIMqOrHqHx7A3F0MzQpgMX+2St7\nOJhIJI7m0FVuZjd7oF/aUBiw8DR7YJ1qX2t4IzqzDPyWckWG3zdifFLJXZd5wlTb\nl1BhD9WxLjrNQPyLgqrfHOg6L3NBJvpfjo6NRfUXAQKBgQD0dLXNYHScGILsh2rx\nStYtakbqyaN0cCKtu7n/LINCe5F5oPI77BAP370Zg4acTMgvBm+Fh52T3xwzq1QC\n9lbSp4njdNMFg1XsgEjqynKH5fvNFrzfqFrJJPIF1+TwfPfmERTjL+T6hYh+LZ0h\n+JczfBiWSuR7kElTeXRQ/o9ETwKBgQDlML1B6Vh/ijhicbIFk5ui9dUFYiiRQrd/\nDsLl+vpGA5KTFkEDM9H8Y1Ng7Y994NAqiUzR+Bru6pgnovZXLwjCFcgPxMgMo8Hs\n6zWfMe904o63iGy8QRD7YJcVyeZ666A5APa4cJNKsV891j3p29BKrhRMB3ysq+AP\nEb4KJxR2gwKBgQC5Ih6BgLgvc3zL5y69uMCFuoQk0jqhNz98Nb0CHNL3qZ+d7p8l\ndH0hmH+c7/glLR06R/RzuyZC0+iG1Q0WBTvx44JRKaua9EFBkFIoxtOASlOtmbfG\n5riCtyE3/a5b1zjjGzKncCFI/ZJGhQMItDzGeAgi4msxjS+LMWM+59rWjwKBgB0l\nG4wcLmLZot3x819+K9aHSHWMy/fc8hS4PdSdG+J3ZdZKiC3uEw/zWZED5LFvO0mN\neDVjRZmIP50avhTMKGL1/iDzNzVURb7pEkKSSQ8mGFwCf0FZTN2KpOviZurOt+tH\n0hgWSMTA1Ym5itoIV+6HQJGCijozCSUhbndADPwdAoGBAM0VARnFuc6o5H4lFECH\nTlEkfNu59yj+dRCqmTqC8XPGuJii9KyRptiwbosPJe66abC68gM/OzblpigA4aSc\nZ2BB/ibsXWKMUW25J7QqsxHCiRn1aWeDkVAtAnw0vOgs7nIV3qsWoapUn8xLVPRb\nVstLfT5jrWzV7a4VqHpEbYlQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@celtic-pulsar-390513.iam.gserviceaccount.com",
+  "client_id": "113329157902729694272",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40celtic-pulsar-390513.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
